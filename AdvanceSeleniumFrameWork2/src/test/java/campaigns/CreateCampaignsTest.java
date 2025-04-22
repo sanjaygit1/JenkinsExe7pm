@@ -33,10 +33,7 @@ import ObjectRepository.VtigerLoginPage;
 
 public class CreateCampaignsTest extends BaseClass {
 
-	//campaignTestScript
-	
-	//hello
-	//Test1
+	//poll scm
 	@Test() 
 	public void createCampaignsTest() throws Throwable {
 
